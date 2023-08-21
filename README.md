@@ -1,0 +1,1 @@
+This is my foundation project. Whereinanambra is a project designed to help individuals that are coming to Anambra state for the first to navigate through Anambra state just with a click on their phone. It is a mini project because it just be giving out a few information for the moment but the full version will be coming out later.
